@@ -16,9 +16,9 @@ case "$LINUX" in
     PKG_URL="https://github.com/CoreELEC/media_tree_aml/archive/${PKG_VERSION}.tar.gz"
     ;;
   amlogic-4.9)
-    PKG_VERSION="d3d8e036546c254471e3903d199a30f8977f9f9b"
-    PKG_SHA256="7d9dd87b075a31b27417c4a7b07586859766d06adee9300f7aadfbd9ec6085cc"
-    PKG_URL="https://github.com/CoreELEC/media_tree_aml/archive/${PKG_VERSION}.tar.gz"
+    PKG_VERSION="1b77f1ab6f1291116c36cac8693dda624863b1e5"
+    # PKG_SHA256="7d9dd87b075a31b27417c4a7b07586859766d06adee9300f7aadfbd9ec6085cc"
+    PKG_URL="https://github.com/KKomarov/media_tree_aml/archive/${PKG_VERSION}.tar.gz"
     ;;
 esac
 
